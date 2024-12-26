@@ -1,0 +1,55 @@
+/* .sa{
+  width: 100%;
+  height: 1200px;
+  background-color: chocolate;
+}
+.pa{
+  text-decoration: none;
+  color: white;
+  width: 200px;
+  border: 2px solid blue;
+  background-color: blue;
+}
+.pa:focus{
+  background-color: red;
+  border: 4px dotted red;
+  box-shadow: 2px 2px 10px 2px blue;
+}
+.wrapper{
+  display: flex;
+  justify-content: space-between;
+}.rasm { 
+  margin-top:50px;
+  margin: 50px auto;
+  background-image: url(../asserts/rasm2.jpg);
+  width: 500px;
+  height: 400px;
+  border: 2px dotted black;
+}
+h1{
+  width: 100px;
+  margin-left: 80%;
+  color: white;
+}
+.sayit{
+  font-size: 30px;
+  width: 550px;
+  height: 50px;
+  background-color: blueviolet;
+  margin: 0 auto;
+  margin-top: 2%;
+  box-shadow: 10px 10px 10px 10px red;
+}
+.andi{
+  margin-top: 20px;
+} */
+ /* .hari{
+  border: 2px solid red;
+  width: 100%;
+  height: 200px;
+ }
+ .harita  map{
+  color: blue;
+  width: 100%;
+  height: 200px;
+ } */

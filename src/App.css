@@ -1,0 +1,33 @@
+*{
+  background-color: aqua;
+}
+.wrapper{
+  border:  5px dotted red;
+  display: flex;
+  justify-content:center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+ .block{
+  display: flex;
+  justify-content:center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.block button{
+  margin: 5px;
+  font-size: 30px;
+  border: none;
+}
+button:hover{
+  background-color: gray;
+  transform: scale(1.1);
+}
+.choose p{
+  font-size: 60px;
+  text-align: center;
+}
+.choose h6{
+  font-size: 20px;
+  text-align: center;
+}
